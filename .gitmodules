@@ -7,3 +7,6 @@
 [submodule "Q1/Resto"]
 	path = Q1/Resto
 	url = https://github.com/ikrimaamanda/Resto.git
+[submodule "Q5/FrontEnd/Calendar"]
+	path = Q5/FrontEnd/Calendar
+	url = https://github.com/ikrimaamanda/Calendar-App.git

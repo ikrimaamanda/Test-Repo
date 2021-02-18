@@ -4,3 +4,6 @@
 [submodule "Resto"]
 	path = Resto
 	url = https://github.com/ikrimaamanda/Resto.git
+[submodule "Q1/Resto"]
+	path = Q1/Resto
+	url = https://github.com/ikrimaamanda/Resto.git

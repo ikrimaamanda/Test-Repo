@@ -1,3 +1,6 @@
 [submodule "Q4/Backend/recruitment-code-debugging"]
 	path = Q4/Backend/recruitment-code-debugging
 	url = https://github.com/ikrimaamanda/recruitment-code-debugging.git
+[submodule "Resto"]
+	path = Resto
+	url = https://github.com/ikrimaamanda/Resto.git
